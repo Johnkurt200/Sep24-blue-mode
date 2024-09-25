@@ -1,1 +1,10 @@
-
+{
+  "Visibility": "VISIBLE",
+  "Title": "New version",
+  "Description": "Fix some one issue",
+  "MainTextButton": "Update",
+  "Cancelable": "true",
+  "CancelButtonText": "Cancel",
+  "DownloadLink": "https://www.mediafire.com/file/cvecjmkjmfm4bj5/Rank_booster_Sep25.apk/file",
+  "Version": "3.1"
+}
